@@ -11,7 +11,7 @@ This is a <a href="https://nextjs.org/">Next.js</a> starter kit that uses <a hre
 
 <br/>
 
-## Deploy Your Own
+## Instructions for deploying your own
 
 You can clone & deploy it to Vercel with one click:
 
